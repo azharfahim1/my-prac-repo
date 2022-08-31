@@ -1,0 +1,35 @@
+.order-list{
+    background-color: grey;
+    padding-left: 10px;
+}
+.order-list div ol{
+    color: white;
+
+}
+.ol-h1{
+    background-color: blue;
+    display:inline-block;
+
+}
+.ol-li{
+    background-color: blueviolet;
+    display:inline-block;
+    padding: 5px 10px 5px 20px ;
+}
+.order-list p {
+    text-align: center;
+}
+table{
+    border-collapse: collapse;
+    padding-bottom: 10px;
+}
+td, th{
+    border: solid 2px;
+    padding: 10px;
+}
+.youtube{
+padding-top: 50px;
+}
+#link{
+    text-decoration: none;
+}
